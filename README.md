@@ -1,6 +1,6 @@
 # Maikel Ferrer
 
-Ingeniero en ciberseguridad. Hago webs, automatizaciones y servicios dedicados
+Estudiante de último año de Ingeniería en Ciberseguridad. Hago webs, automatizaciones y servicios dedicados
 para servidores de Minecraft.
 
 ## Proyectos
