@@ -1,7 +1,7 @@
 # Maikel Ferrer
 
-Estudiante de último año de Ingeniería en Ciberseguridad. Hago webs, automatizaciones y servicios dedicados
-para servidores de Minecraft.
+Estudiante de último año de Ingeniería en Ciberseguridad. Hago webs, APIs y software a medida, automatizaciones y servicios
+dedicados para servidores de Minecraft.
 
 ## Proyectos
 
